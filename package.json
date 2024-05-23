@@ -1,0 +1,17 @@
+{
+  "name": "proman21.github.io",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "gulp build",
+    "clean": "gulp clean",
+    "start": "gulp"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.3"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "gulp": "^5.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer base {
+  @font-face {
+    font-family: "Cutive Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts/CutiveMono-Regular.ttf) format("truetype");
+    src: url(/fonts/CutiveMono-Regular.woff) format("woff2");
+  }
+} */
